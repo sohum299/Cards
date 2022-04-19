@@ -5,12 +5,12 @@ import { useGesture } from 'react-use-gesture'
 import './styles.css'
 
 const cards = [
-  'https://upload.wikimedia.org/wikipedia/en/f/f5/RWS_Tarot_08_Strength.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/5/53/RWS_Tarot_16_Tower.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/9/9b/RWS_Tarot_07_Chariot.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/d/db/RWS_Tarot_06_Lovers.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/690px-RWS_Tarot_02_High_Priestess.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/d/de/RWS_Tarot_01_Magician.jpg'
+  'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/stay-connected-in-quarantine-poster-design-template-2ab4ccd5ac4f5c1cb62e9f06f3ec430d_screen.jpg?ts=1637006845',
+  'https://www.nsw.gov.au/sites/default/files/2022-03/Wipe%20down%20blue.png',
+  'https://i.pinimg.com/736x/c0/1b/ca/c01bcab311ba0b4355b0a95afde92983.jpg',
+  'https://cdn.create.vista.com/common/99266e32-7535-499f-bed4-bf18507906f3_1024.jpeg',
+  'https://ca-times.brightspotcdn.com/dims4/default/3ee0f59/2147483647/strip/true/crop/1313x1689+0+0/resize/840x1081!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F68%2F389cd712417c80522c3644b98af3%2Fprotect-and-respect-v.1%20%5BEnglish%5D.jpg',
+  'https://www.buffalo.edu/content/authoritative/issues-management/health-and-safety/posters/print/get-vaccinated/_jcr_content/par/image.img.original.png/1643313960694.png',
 ]
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
